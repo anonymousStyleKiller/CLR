@@ -1,0 +1,15 @@
+C:\Projects\Tests\CLR\CLR\CLR.Test\bin\Debug\net6.0\CLR.Test.exe
+C:\Projects\Tests\CLR\CLR\CLR.Test\bin\Debug\net6.0\CLR.Test.deps.json
+C:\Projects\Tests\CLR\CLR\CLR.Test\bin\Debug\net6.0\CLR.Test.runtimeconfig.json
+C:\Projects\Tests\CLR\CLR\CLR.Test\bin\Debug\net6.0\CLR.Test.dll
+C:\Projects\Tests\CLR\CLR\CLR.Test\bin\Debug\net6.0\CLR.Test.pdb
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.csproj.AssemblyReference.cache
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.AssemblyInfoInputs.cache
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.AssemblyInfo.cs
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.csproj.CoreCompileInputs.cache
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.dll
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\ref\CLR.Test.dll
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.pdb
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\CLR.Test.genruntimeconfig.cache
+C:\Projects\Tests\CLR\CLR\CLR.Test\obj\Debug\net6.0\refint\CLR.Test.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpUNtkfz2T0dD+E0emfaKvni2fc+WGgfBAz4/8+XSnwvKPatjixfnwELHWgUKC1Zokq0wsh/8UsZOmwZ7jzP1w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Tests\\CLR\\CLR\\CLR.Test\\CLR.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton.kharchenko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
